@@ -1,0 +1,11 @@
+# THIS FILE IS GENERATED FROM PYPROCAR SETUP.PY.
+name = 'my_lib'
+version = '6.0.0'
+description = ''
+author = ''
+email = ''
+url = ''
+download_url = ''
+status = 'development'
+copyright = ''
+date = ''
